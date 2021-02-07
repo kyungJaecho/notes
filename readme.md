@@ -24,7 +24,7 @@
 * [On the Variance of the Adaptive Learning Rate and Beyond](./pdf/RAdam)
 
 *  [Evolved Transformer](pdf/Evolved_Transformer.pdf) 
-*  [Cardiologist-Level_ Arrhythmia_ Detection_with_Convolutional_Neural_Networks](pdf/Cardiologist-Level_ Arrhythmia_Detection_with_Convolutional_Neural_Networks)
+*  [Cardiologist-Level_ Arrhythmia_ Detection_with_Convolutional_Neural_Networks](pdf/Cardiologist_Level_ Arrhythmia_Detection_with_Convolutional_Neural_Networks)
 
 *  [Domain Adaptation](pdf/Domain_Adaptation.pdf) 
 * [Language Models are Unsupervised Multitask Learners](./pdf/gpt2.pdf)
