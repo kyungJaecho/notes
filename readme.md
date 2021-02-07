@@ -2,6 +2,11 @@
 
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR04HRMsK-KyEJ8XsQO7TABIf_yywmDhTEuZRxRMLhpYrn99XEwphYn7teI)
   *  [pdf](pdf/A_recipe_for_Training_NN.pdf) 
+*  [(48) Henry AI Labs - YouTube](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos?fbclid=IwAR1GuEDrb7cOJ2-8XzziIoAqWkYG3jwxwACedIO-mk7Otszq2apP4oxPBv8) 
+*  [Deep Learning Monitor - Find new Arxiv papers, tweets and Reddit posts for you](http://deeplearn.org/) 
+*  [Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota) 
+*  [Lunit Tech Blog](https://blog.lunit.io/) 
+*  [Google AI Blog](https://ai.googleblog.com/) 
 
 ## Top kagglers
 
@@ -9,7 +14,7 @@
 * [Bestfitting](https://medium.com/kaggle-blog/profiling-top-kagglers-bestfitting-currently-1-in-the-world-58cc0e187b)
   * [pdf](./pdf/Bestfitting.pdf)
 
-
+* [Kaggle winner's Blog](https://medium.com/kaggle-blog)
 
 ## Kaggle discussions
 
