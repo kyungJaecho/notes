@@ -1,7 +1,7 @@
 ## Reference
 
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR04HRMsK-KyEJ8XsQO7TABIf_yywmDhTEuZRxRMLhpYrn99XEwphYn7teI)
-  *  [pdf](pdf/A recipe for Training NN.pdf) 
+  *  [pdf](pdf/A_recipe_for_Training_NN.pdf) 
 
 ## Top kagglers
 
@@ -23,10 +23,10 @@
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](./pdf/XLNet.pdf)
 * [On the Variance of the Adaptive Learning Rate and Beyond](./pdf/RAdam)
 
-*  [Evolved Transformer](pdf/Evolved Transformer.pdf) 
-*  [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](pdf/Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.pdf) 
+*  [Evolved Transformer](pdf/Evolved_Transformer.pdf) 
+*  [Cardiologist-Level_ Arrhythmia_ Detection_with_Convolutional_Neural_Networks](pdf/Cardiologist-Level_ Arrhythmia_ Detection_with_Convolutional_Neural_Networks.pdf) 
 
-*  [Domain Adaptation](pdf/Domain Adaptation.pdf) 
+*  [Domain Adaptation](pdf/Domain_Adaptation.pdf) 
 * [Language Models are Unsupervised Multitask Learners](./pdf/gpt2.pdf)
-*  [Variants of Transformer](pdf/Variants of Transformer.pdf) 
+*  [Variants of Transformer](pdf/Variants_of_Transformer.pdf) 
 
