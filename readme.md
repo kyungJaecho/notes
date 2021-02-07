@@ -23,10 +23,10 @@
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](./pdf/XLNet.pdf)
 * [On the Variance of the Adaptive Learning Rate and Beyond](./pdf/RAdam)
 
-* [Evolved Transformer](./pdf/Evolved Transformer)
+* [Evolved Transformer](./pdf/Evolved Transformer.pdf)
 
-* [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](./pdf/Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks)
+* [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](./pdf/Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks.pdf)
 * [Domain Adaptation](./pdf/Domain Adaptation.pdf)
 * [Language Models are Unsupervised Multitask Learners](./pdf/gpt2.pdf)
-* [Variants of Transformer](./pdf/Variants of Transformer)
+* [Variants of Transformer](./pdf/Variants of Transformer.pdf)
 
