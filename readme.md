@@ -1,7 +1,7 @@
 ## Reference
 
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR04HRMsK-KyEJ8XsQO7TABIf_yywmDhTEuZRxRMLhpYrn99XEwphYn7teI)
-  * [pdf](./pdf/A recipe for Training NN)
+  * [pdf](./pdf/A recipe for Training NN.pdf)
 
 ## Top kagglers
 
