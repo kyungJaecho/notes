@@ -41,3 +41,9 @@
 * [Language Models are Unsupervised Multitask Learners](./pdf/gpt2.pdf)
 *  [Variants of Transformer](pdf/Variants_of_Transformer.pdf) 
 
+
+
+## Google Scholar
+
+* [my papers](https://scholar.google.com/citations?user=JxPwRDMAAAAJ&hl=en)
+
