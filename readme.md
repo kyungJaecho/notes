@@ -7,6 +7,12 @@
 *  [Browse the State-of-the-Art in Machine Learning](https://paperswithcode.com/sota) 
 *  [Lunit Tech Blog](https://blog.lunit.io/) 
 *  [Google AI Blog](https://ai.googleblog.com/) 
+*   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) 
+*  [OpenAI Research](https://openai.com/research/#publications) 
+*  [kaggle competitions](https://www.kaggle.com/competitions)
+
+* [Khan Academy](https://www.khanacademy.org/) 
+* [Bayesian Deep Learning](https://www.edwith.org/bayesiandeeplearning/joinLectures/14426)
 
 ## Top kagglers
 
