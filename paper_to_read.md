@@ -1,0 +1,69 @@
+## paper to read
+
+- EMR related
+  - Neural Ordinary Differential Equations (NIPS 2018)
+  - HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records (KDD 2020)
+  - DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series (AAAI 2020)
+- Optimization
+  - The marginal value of adaptive gradient methods in machine learning (NIPS 2017)
+  - On large-batch training for deep learning: Generalization gap and sharp minima (ICLR 2017)
+  - Sharp minima can generalize for deep nets (ICML 2017)
+- Augmentation 
+  - RandAugment
+  - AutoAugment
+  - Population-Based Augmentation
+- Noisy Label
+  - Deep self-Learning From Noisy Labels (CVPR 2019)
+  - Combating Label Noise in Deep Learning Using Abstention (ICML2019)
+  - Confident Learning: Estimating Uncertainty in Dataset Labels (2019)
+  - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels, 2018 ICML
+  - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels, 2018 NIPS
+  - Combating Noisy Labels by Agreement: A Joint Training Method with Co-Regularization, 2020 CVPR
+- Pretraining?
+  - Using Pre-Training Can Improve Model Robustness and Uncertainty(2019, ICML)
+  - Towards Deep Learning Models Resistant to Adversarial Attacks(2018, ICLR)
+  - Rethinking pre-training and self-training
+  - Rethinking the hyperparameters for fine-tuning
+- Disentangled representation?
+  - Rare event Detection Using Disentangled Representation Learning (CVPR 2019)
+  - Disentangled representation learning in cardiac image analysis (Medical Image Analysis 2019)
+- Calibration
+  - On Calibration of Modern Neural Networks(2017, ICML)
+- Stochastic weight averaging
+  - Averaging Weights Leads to Wider Optima and Better Generalization
+  - Asymmetric Valleys: Beyond Sharp and Flat Local Minima
+- Self-supervised learning
+  - SimCLR: A Simple Framework for Contrastive Learning of Visual Representation
+  - BYOL:Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
+- Batch Normalization
+  - How does BN help Optimization?
+  - Four Things Everyone Should Know to Improve Batch Normalization
+- Complex-valued network??
+  - DEEP COMPLEX NETWORK
+  - COMPLEX TRANSFORMER: A FRAMEWORK
+- Orthogonal regularization
+  - Can We Gain More from Orthogonality Regularizations in Training Deep CNNs?
+  - Orthogonal Convolutional Neural Network
+  - Role of Orthogonality Constraints in Improving Properties of Deep Networks for Image Classification
+  - Clustering With Orthogonal AutoEncoder
+  - Orthogonal Low-Rank Matrix Factorization for Deep Neural Networks
+- Fourier perspective on CNN?
+  - Fourier Perspective on Model Robustness in Computer Vision
+- Transformer
+  - On the Relationship between Self-Attention and Convolutional Layers
+  - Adaptive Attention Span in Transformer
+  - Time-aware Large Kernel Convolution
+  - Longformer: The Long-document transformer
+  - Big Bird: The Transformers for Longer Sequence
+- Anomaly detection
+  - Deep anomaly detection with deviation networks (2019 KDD)
+  - Deep One-Class Classification, ICML 2018
+  - Deep Semi-supervised Anomaly Detection, ICLR 2020
+- Imbalanced/Long-tailed data training
+  - Learning deep representation from imbalanced classification(CVPR2016)
+  - Range loss for deep face recognition w/ long-tailed training data(ICCV2017)
+  - Learning imbalanced datasets w/ label distribution-aware margin loss(NIPS2019)
+- Representation?
+  - On the Importance of Single Directions for Generalization(ICLR2018)
+  - Insights on representational similarity in neural networks with canonical correlation(NIPS2018)
+

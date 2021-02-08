@@ -1,3 +1,9 @@
+## paper to read
+
+* [paper_to_read](paper_to_read.md)
+
+
+
 ## Reference
 
 * [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR04HRMsK-KyEJ8XsQO7TABIf_yywmDhTEuZRxRMLhpYrn99XEwphYn7teI)
