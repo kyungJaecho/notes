@@ -24,7 +24,7 @@
   * 특히 discriminative approach에서는 supervised learning과 유사한 objective function을 사용해서 (autoregressive한 loss 혹은 pretext task 등) label이 없지만 데이터 내에서 예측 할만한 레이블을 만들어서 학습하는 방식을 취하고 있음
   * constrastive learning이 새로운 가능성을 보이고 있고, 최근 이를 활용한 방법들이 SOTA 결과를 보이고 있음
 
-  ![Figure1](/Users/kyungjaecho/Documents/notes/images/Figure1.png)
+  ![Figure1](images/Figure1.png)
 
 * Method
 
