@@ -30,7 +30,7 @@
 
   * **2.1 The Contrastive Learning Framework**
 
-* ![Figure2](/Users/kyungjaecho/Documents/notes/images/Figure2.png)
+* ![Figure2](images/Figure2.png)
 
   * SimCLR은 동일 데이터에 다른 augmentation을 가한 두 샘플의 similarity를 올라가도록 학습함
     * **Stochastic data augmentation**
@@ -38,10 +38,10 @@
     * A neural network base encoder ... (당연한거 아닌가??...)
     * projection head... (이것도...??..) -> 나중에 ablation study에서 효과가 크다고 나와있음 -> 상세히 분석 필요
     * **Constrastive loss function ** (NT-Xent; normalized temperature-scaled cross entropy loss)
-      * <img src="/Users/kyungjaecho/Documents/notes/images/Equation1.png" alt="Equation1" style="zoom:100%;" />
+      * <img src="images/Equation1.png" alt="Equation1" style="zoom:100%;" />
       * Similarity metric -> cosine similarity (dot product between l2 normalized vectors)
 
-  <img src="/Users/kyungjaecho/Documents/notes/images/Algorithm1.png" alt="Algorithm1" style="zoom:100%;" />
+  <img src="images/Algorithm1.png" alt="Algorithm1" style="zoom:100%;" />
 
   * 마지막에 l(2k-1, 2k) + l(2k,2k-1) => 분자는 같지만, 분모가 다름 어떤 target data를 기준으로 similarity 합을 계산해서 normalize할지
 
