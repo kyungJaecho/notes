@@ -13,7 +13,7 @@
   - AutoAugment
   - Population-Based Augmentation
 - Noisy Label
-  - Deep self-Learning From Noisy Labels (CVPR 2019)
+  - ~~Deep self-Learning From Noisy Labels (CVPR 2019)~~
   - Combating Label Noise in Deep Learning Using Abstention (ICML2019)
   - Confident Learning: Estimating Uncertainty in Dataset Labels (2019)
   - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels, 2018 ICML
@@ -28,12 +28,12 @@
   - Rare event Detection Using Disentangled Representation Learning (CVPR 2019)
   - Disentangled representation learning in cardiac image analysis (Medical Image Analysis 2019)
 - Calibration
-  - On Calibration of Modern Neural Networks(2017, ICML)
+  - ~~On Calibration of Modern Neural Networks(2017, ICML)~~
 - Stochastic weight averaging
   - Averaging Weights Leads to Wider Optima and Better Generalization
   - Asymmetric Valleys: Beyond Sharp and Flat Local Minima
 - Self-supervised learning
-  - SimCLR: A Simple Framework for Contrastive Learning of Visual Representation
+  - ~~SimCLR: A Simple Framework for Contrastive Learning of Visual Representation~~
   - BYOL:Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
 - Batch Normalization
   - How does BN help Optimization?

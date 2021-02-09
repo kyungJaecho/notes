@@ -46,7 +46,8 @@
 *  [Variants of Transformer](pdf/Variants_of_Transformer.pdf) 
 *  [A Simple Framework for Contrastive Learning of Visual Represenations](simCLR.md)
 
-
+* [Accurate, large minibatch sgd: Training imagenet in 1 hour](goyal.md)
+* [Large batch training of convolutional networks](LARS.md)
 
 ## Google Scholar
 
